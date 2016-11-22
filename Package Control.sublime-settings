@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Acme Color Scheme",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Fold Comments",
+		"Gitignore",
+		"HTML5",
+		"JsFormat",
+		"Laravel Blade Highlighter",
+		"Libraries from CDN",
+		"Numix Theme",
+		"Package Control",
+		"phpfmt",
+		"Seti_UI",
+		"Seti_UX",
+		"Shell Exec",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Terminal",
+		"Theme - Numix",
+		"Themes Menu Switcher",
+		"Volt"
+	]
+}
