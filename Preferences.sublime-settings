@@ -1,9 +1,9 @@
 {
 	"auto_indent": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Agila Oceanic Next (SL).tmTheme",
 	"font_face": "monaco",
-	"font_size": 11,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -12,7 +12,7 @@
 	"overlay_scroll_bars": "enabled",
 	"tab_size": 4,
 	"tabs_medium": true,
-	"theme": "Numix Dark Blue.sublime-theme",
+	"theme": "Agila.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,

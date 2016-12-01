@@ -1,0 +1,23 @@
+{
+    "access_token": "f534c7a268da534506fc0f24e2f624d11924bce0",
+    "gist_id": "63eff856c8796cfd9c4229a4f1c94004",
+    "auto_upgrade": true,
+    "excluded_files": [
+        ".git",
+        ".dmg",
+        ".DS_Store",
+        ".DS_Store?",
+        ".exe",
+        ".Spotlight-V100",
+        ".Trashes",
+        "ehthumbs.db",
+        "oscrypto-ca-bundle.crt",
+        "SyncSettings.sublime-settings",
+        "Package Control.cache",
+        "Package Control.last-run",
+        "Package Control.merged-ca-bundle",
+        "Package Control.system-ca-bundle",
+        "Package Control.user-ca-bundle",
+        "Thumbs.db"
+    ],
+}

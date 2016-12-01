@@ -37,7 +37,7 @@
 		"SortUseNameSpace",
 		"RestoreComments"
 	],
-	"php_bin": "d:/xampp/php/php.exe",
+	"php_bin": "c:/xampp/php/php.exe",
 	"psr1": true,
 	"psr1_naming": false,
 	"version": 4
